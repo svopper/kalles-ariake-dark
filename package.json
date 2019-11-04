@@ -1,0 +1,22 @@
+{
+  "name": "kalles-ariake-dark",
+  "displayName": "kalles-ariake-dark",
+  "description": "Modified version of the original Ariake Dark theme, to fit Kalle K's needs",
+  "version": "0.0.1",
+  "publisher": "svopper",
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ariake Dark rev. Kalle K",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ariake Dark rev. Kalle K-color-theme.json"
+      }
+    ]
+  }
+}
