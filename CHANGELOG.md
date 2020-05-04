@@ -2,8 +2,14 @@
 
 All notable changes to the "kalles-ariake-dark" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.4 (May 4th, 2020)
+* Changed color for *deprected* html-attributes
 
-## [Unreleased]
+## 0.0.3 (November 5th, 2019)
+* Added license
 
-- Initial release
+## 0.0.2 (November 4th, 2019)
+* Changed status bar colors
+
+## 0.0.1 (November 4th, 2019)
+* Initial release
