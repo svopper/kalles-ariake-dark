@@ -1,9 +1,9 @@
 {
-  "name": "kalles-ariake-dark",
-  "displayName": "kalles-ariake-dark",
+  "name": "kalles-ariake-dark-v2",
+  "displayName": "Kalle's Ariake Dark 2",
   "description": "Modified version of the original Ariake Dark theme, to fit Kalle K's needs",
   "version": "0.0.5",
-  "publisher": "svopper",
+  "publisher": "kolsdk",
   "repository": "https://github.com/svopper/kalles-ariake-dark",
   "engines": {
     "vscode": "^1.39.0"
