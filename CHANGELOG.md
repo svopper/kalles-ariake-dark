@@ -2,6 +2,11 @@
 
 All notable changes to the "kalles-ariake-dark" extension will be documented in this file.
 
+## 0.0.6 (September 7th, 2025)
+- Changed color of current search match to green
+- Changed color of other search matches to red
+- Changed color of status bar when no folder is opened
+
 ## 0.0.5 (May 17th, 2024)
 - Changed color of _this_-keywords (variable.language.this)
 
